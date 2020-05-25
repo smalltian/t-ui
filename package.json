@@ -1,11 +1,11 @@
 {
-  "name": "zhujuntian-ui",
-  "version": "0.1.1",
+  "name": "ytian-ui",
+  "version": "0.0.1",
   "private": false,
   "main": "lib/tui.umd.min.js",
-  "description": "zhujuntian-ui",
-  "keyword": "zhujuntian-ui",
-  "author": "zhujuntian",
+  "description": "ytian-ui",
+  "keyword": "ytian-ui",
+  "author": "ytian",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
@@ -16,7 +16,7 @@
     "core-js": "^3.6.4",
     "element-ui": "^2.13.2",
     "vue": "^2.6.11",
-    "zhujuntian-ui": "^0.1.1"
+    "ytian-ui": "^0.1.1"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^4.3.0",
